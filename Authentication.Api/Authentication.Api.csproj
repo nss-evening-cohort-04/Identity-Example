@@ -226,6 +226,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="app\app.js" />
+    <Content Include="app\home.html" />
+    <Content Include="app\homeController.js" />
     <Content Include="app\Login.html" />
     <Content Include="app\loginController.js" />
     <Content Include="Areas\HelpPage\HelpPage.css" />
